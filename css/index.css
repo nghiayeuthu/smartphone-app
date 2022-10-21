@@ -181,11 +181,11 @@ footer> p {
 	margin-bottom: 10px;
 	border-radius: 10px;
 }
-#header {
+#header2 {
 	background-image: url("https://www.sololearn.com/Uploads/header.jpg");
 	background-size: cover;
 }
-#header img {
+#header2 img {
 	display: block;
 	width: 80px;
 	height: 80px;
