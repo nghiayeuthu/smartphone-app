@@ -175,11 +175,7 @@ footer> p {
     }
 }
 
-.section {
-	background-color: #fff;
-	padding: 15px;
-	margin-bottom: 10px;
-	border-radius: 10px;
+
 }
 #header2 {
 	background-image: url("https://www.sololearn.com/Uploads/header.jpg");
@@ -191,10 +187,4 @@ footer> p {
 	height: 80px;
 	margin: auto;
 }
-#header p {
-	font-size: 25pt;
-	color: #3b464c;
-	padding-top: 5px;
-	margin: 0;
-	font-weight: bold;
-	text-align: center;
+
