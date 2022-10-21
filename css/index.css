@@ -188,6 +188,6 @@ footer> p {
 	margin: auto;
 }
 .img-circle {
-	border: 3px solid white;
+	border: 3px solid rgba(1, 24, 31, 0.7);
 	border-radius: 50%;
 }
