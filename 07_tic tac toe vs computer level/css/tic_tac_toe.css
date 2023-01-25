@@ -201,6 +201,7 @@ footer> p{
 @media screen and (max-width:480px){
     .wrapper{
         padding-bottom:23px;
+        margin: 0px;
     }
     .btn-container{
         padding-top:2px;
