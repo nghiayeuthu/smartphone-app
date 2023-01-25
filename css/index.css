@@ -173,6 +173,9 @@ footer> p {
     body{
         background-size: auto 812px;
     }
+    h1{
+	font:1em;
+    }
 }
 
 
