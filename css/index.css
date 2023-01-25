@@ -179,17 +179,8 @@ footer> p {
 }
 
 
-}
-#header2 {
-	background-image: url("https://www.sololearn.com/Uploads/header.jpg");
-	background-size: cover;
-}
-#header2 img {
-	display: block;
-	width: 80px;
-	height: 80px;
-	margin: auto;
-}
+
+
 .img-circle {
 	border: 3px solid;
 	border-radius: 50%;
