@@ -51,7 +51,7 @@ header, footer, h1, h2, h3, p, div, .container01, .filler01 {
 /* 見出し（みだし）           */
 /*****************************/
 h1 {
-    font: 2em Rajdhani, "Noto Sans JP";
+    font: 1em Rajdhani, "Noto Sans JP";
     color: rgb(181, 242, 252);
     background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
 }
@@ -155,7 +155,7 @@ a:hover{
 /*****************************/
 footer> p {
     position: absolute;/*←絶対位置*/
-    bottom: 5px; /*下に固定*/
+    bottom: 2px; /*下に固定*/
     width: 100%;
     margin: 0px;
     padding: 1px;
